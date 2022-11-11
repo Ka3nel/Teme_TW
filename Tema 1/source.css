@@ -1,0 +1,168 @@
+*{
+    margin: 0px;
+}
+
+.div1 {
+    position: relative;
+    text-align: center;
+}
+
+.div1 img {
+    width: 100%;
+    opacity: 60%;
+}
+
+.text1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.text1 h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    margin-bottom: 5px;
+}
+
+.text1 h3 {
+    font-family: Georgia;
+    font-size: 18px;
+    margin-bottom: 75PX;
+}
+
+.div2 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+h2 {
+    font-family: Georgia;
+    font-size: 25px;
+    color:rgb(24, 118, 226);
+}
+
+.div2 img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-top: 17px;
+}
+
+.div2 p {
+    font-family: 'Segoe UI';
+    font-size: 10px;
+    margin-top: 17px;
+}
+
+.skills-section{
+    background-color: rgba(212, 208, 207, 0.925);
+    padding-bottom: 15px;
+}
+
+.skills-section h2 {
+    text-align: center;
+    align-items: center;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+.div3 {
+    display: flex;
+    padding-left: 12px;
+    padding-right: 40px;
+    text-align: center;
+    align-items: center;
+}
+
+.inDiv3 {
+    
+}
+
+.inDiv3 img {
+    width: 67px;
+    height: 67px;
+    border-radius: 50%;
+    margin-top: 12px;
+    margin-right: 25px;
+}
+
+.inDiv3 h3 {
+    text-align: left;
+    font-family: Georgia;
+    margin-top: 10px;
+    font-size: 18px;
+    color:rgb(59, 141, 235);
+}
+
+.inDiv3 p {
+    text-align: left;
+    font-family: 'Segoe UI';
+    font-size: 10px;
+    margin-top: 3px;
+    text-align: justify
+}
+
+.div4 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.div4 h2 {
+    margin-top: 15px;
+}
+
+.div4 button {
+    margin-top: 20px;
+    border-radius: 60px;
+    padding: 5px 14px;
+    border: none;
+    background-color: rgb(230, 113, 70);
+    color: rgba(255, 255, 255, 0.897);
+}
+
+.div5 {
+    margin-top: 20px;
+    position: relative;
+    text-align: center;
+}
+
+.div5 img {
+    width: 100%;
+    opacity: 60%;
+}
+
+.text2 {
+    position: absolute;
+    display: flex;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.text2 a {
+    font-family: 'Arial', cursive;
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+
+.dots1 {
+    margin-right: 43%;
+    margin-left: 43%;
+    border: none;
+    color: rgba(212, 208, 207, 0.925);
+    border-top: 8px dotted;
+    margin-top: 35px;
+    margin-bottom: 32px;
+}
+
+.dots2 {
+    margin-right: 43%;
+    margin-left: 43%;
+    border: none;
+    color: rgba(212, 208, 207, 0.925);
+    border-top: 8px dotted;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
